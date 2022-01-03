@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>PMY_28761.jpg</filename>
+    <path>PBC-PascalVOC-export/Annotations/PMY_28761.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>360</width>
+        <height>363</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>pro</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>98.60864186217009</xmin>
+        <ymin>90.22856672420059</ymin>
+        <xmax>270.01855755131965</xmax>
+        <ymax>275.7743118640989</ymax>
+    </bndbox>
+</object>
+</annotation>

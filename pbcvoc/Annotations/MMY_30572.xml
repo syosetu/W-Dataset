@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>MMY_30572.jpg</filename>
+    <path>PBC-PascalVOC-export/Annotations/MMY_30572.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>360</width>
+        <height>363</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>meta</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>118.52089442815249</xmin>
+        <ymin>119.35051212754361</ymin>
+        <xmax>241.3347690615836</xmax>
+        <ymax>244.76861146438955</ymax>
+    </bndbox>
+</object>
+</annotation>

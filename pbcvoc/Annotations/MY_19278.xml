@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>MY_19278.jpg</filename>
+    <path>PBC-PascalVOC-export/Annotations/MY_19278.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>360</width>
+        <height>363</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>NRBC</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>115.77643878299119</xmin>
+        <ymin>121.60936932231105</ymin>
+        <xmax>236.42732771260995</xmax>
+        <ymax>240.80942837027618</ymax>
+    </bndbox>
+</object><object>
+    <name>myelo</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>115.77643878299119</xmin>
+        <ymin>121.60936932231105</ymin>
+        <xmax>236.42732771260995</xmax>
+        <ymax>240.80942837027618</ymax>
+    </bndbox>
+</object><object>
+    <name>NRBC</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>89.04119318181817</xmin>
+        <ymin>222.39644463117736</ymin>
+        <xmax>168.2510080645161</xmax>
+        <ymax>313.45147279251455</ymax>
+    </bndbox>
+</object>
+</annotation>

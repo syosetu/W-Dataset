@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>LY_34670.jpg</filename>
+    <path>PBC-PascalVOC-export/Annotations/LY_34670.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>366</width>
+        <height>369</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>lympho</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>121.9720491202346</xmin>
+        <ymin>128.4716172329215</ymin>
+        <xmax>241.9295385813783</xmax>
+        <ymax>233.76550576853194</ymax>
+    </bndbox>
+</object>
+</annotation>

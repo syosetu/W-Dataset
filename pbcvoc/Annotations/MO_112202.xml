@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>MO_112202.jpg</filename>
+    <path>PBC-PascalVOC-export/Annotations/MO_112202.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>360</width>
+        <height>363</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>mono</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>103.27689699413489</xmin>
+        <ymin>86.04473451126454</ymin>
+        <xmax>260.0222232404692</xmax>
+        <ymax>274.0904739734739</ymax>
+    </bndbox>
+</object>
+</annotation>

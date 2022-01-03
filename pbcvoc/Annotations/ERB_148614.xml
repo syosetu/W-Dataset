@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>ERB_148614.jpg</filename>
+    <path>PBC-PascalVOC-export/Annotations/ERB_148614.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>360</width>
+        <height>363</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>NRBC</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>123.56030058651025</xmin>
+        <ymin>133.53638263081396</ymin>
+        <xmax>234.92210410557183</xmax>
+        <ymax>237.52831463481107</ymax>
+    </bndbox>
+</object>
+</annotation>

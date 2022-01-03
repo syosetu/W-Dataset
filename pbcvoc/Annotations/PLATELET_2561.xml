@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>PLATELET_2561.jpg</filename>
+    <path>PBC-PascalVOC-export/Annotations/PLATELET_2561.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>360</width>
+        <height>363</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plt</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>145.35717558651027</xmin>
+        <ymin>149.9110362917878</ymin>
+        <xmax>220.56474523460412</xmax>
+        <ymax>232.37375090843025</ymax>
+    </bndbox>
+</object>
+</annotation>

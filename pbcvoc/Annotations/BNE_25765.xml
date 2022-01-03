@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>BNE_25765.jpg</filename>
+    <path>PBC-PascalVOC-export/Annotations/BNE_25765.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>360</width>
+        <height>363</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>stab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>88.28239552785924</xmin>
+        <ymin>106.91237054869187</ymin>
+        <xmax>273.4846957478006</xmax>
+        <ymax>258.37534066133725</ymax>
+    </bndbox>
+</object>
+</annotation>

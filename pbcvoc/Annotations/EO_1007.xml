@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>EO_1007.jpg</filename>
+    <path>PBC-PascalVOC-export/Annotations/EO_1007.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>360</width>
+        <height>363</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>eos</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>100.96132697947213</xmin>
+        <ymin>97.92228379360466</ymin>
+        <xmax>265.3276209677419</xmax>
+        <ymax>273.48041765079944</ymax>
+    </bndbox>
+</object>
+</annotation>

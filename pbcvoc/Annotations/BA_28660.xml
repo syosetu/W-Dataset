@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>BA_28660.jpg</filename>
+    <path>PBC-PascalVOC-export/Annotations/BA_28660.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>360</width>
+        <height>363</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>baso</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>110.84631598240469</xmin>
+        <ymin>83.89098837209303</ymin>
+        <xmax>248.71036473607037</xmax>
+        <ymax>264.53155091751455</ymax>
+    </bndbox>
+</object>
+</annotation>

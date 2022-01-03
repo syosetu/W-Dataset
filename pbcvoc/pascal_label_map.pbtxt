@@ -1,0 +1,44 @@
+item {
+ id: 1
+ name: 'baso'
+}
+item {
+ id: 2
+ name: 'stab'
+}
+item {
+ id: 3
+ name: 'eos'
+}
+item {
+ id: 4
+ name: 'NRBC'
+}
+item {
+ id: 5
+ name: 'lympho'
+}
+item {
+ id: 6
+ name: 'meta'
+}
+item {
+ id: 7
+ name: 'mono'
+}
+item {
+ id: 8
+ name: 'myelo'
+}
+item {
+ id: 9
+ name: 'plt'
+}
+item {
+ id: 10
+ name: 'pro'
+}
+item {
+ id: 11
+ name: 'seg'
+}

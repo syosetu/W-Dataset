@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>MY_21389.jpg</filename>
+    <path>PBC-PascalVOC-export/Annotations/MY_21389.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>360</width>
+        <height>363</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>myelo</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>78.96856671554252</xmin>
+        <ymin>96.64034111555233</ymin>
+        <xmax>282.0871517595308</xmax>
+        <ymax>264.45323287609017</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>SNE_7466.jpg</filename>
+    <path>PBC-PascalVOC-export/Annotations/SNE_7466.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>360</width>
+        <height>363</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>seg</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>103.11194098240469</xmin>
+        <ymin>95.14611532521803</ymin>
+        <xmax>253.11675219941347</xmax>
+        <ymax>260.0818495639535</ymax>
+    </bndbox>
+</object>
+</annotation>
